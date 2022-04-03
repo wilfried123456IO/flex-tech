@@ -1,0 +1,28 @@
+.container a{
+    inset: 0px;
+    position: relative;
+    margin: auto;
+    
+    text-decoration: none;
+    
+}
+body{
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.containt{
+    border: 1px solid;
+    width: 1000px;
+    height: 900px;
+    font-size: 50px;
+    margin: auto;
+    padding: auto;
+    height: 1700px;
+   
+    
+
+}
+.btn{
+    width: 500px;
+    height: 50px;
+}
